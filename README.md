@@ -1,7 +1,13 @@
 # bloodyIPA
 bloodhound collector for freeIPA
 
-Warning! Specific bloodhound branch required --> https://github.com/BloodHoundIPA/BloodHoundIPA
+Fork for BH CE OpenGraph json
+<img width="2429" height="520" alt="image" src="https://github.com/user-attachments/assets/ffb8593d-1446-4329-890a-9520c51ae569" />
+
+
+in progress: web api is working. need more objects and some edges rework
+
+use /api/v2/custom-nodes endpoint (via api-explorer) to send nodes icons json to BH
 
 Requirements:
 - python_freeipa

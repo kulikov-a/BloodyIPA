@@ -1,0 +1,53 @@
+{
+  "custom_types": {
+    "IPAUser": {
+      "icon": {
+        "type": "font-awesome",
+        "name": "user",
+        "color": "#03CEFC"
+      }
+    },
+    "IPAUserGroup": {
+      "icon": {
+        "type": "font-awesome",
+        "name": "user-group",
+        "color": "#03CEFC"
+      }
+    },
+    "IPAHost": {
+      "icon": {
+        "type": "font-awesome",
+        "name": "computer",
+        "color": "#03CEFC"
+      }
+    },
+    "IPARole": {
+      "icon": {
+        "type": "font-awesome",
+        "name": "user-tie",
+        "color": "#03CEFC"
+      }
+    },
+    "IPAPrivilege": {
+      "icon": {
+        "type": "font-awesome",
+        "name": "sun",
+        "color": "#03CEFC"
+      }
+    },
+    "IPAPermission": {
+      "icon": {
+        "type": "font-awesome",
+        "name": "lock-open",
+        "color": "#03CEFC"
+      }
+    },
+    "IPAService": {
+      "icon": {
+        "type": "font-awesome",
+        "name": "gear",
+        "color": "#03CEFC"
+      }
+    }
+  }
+}
